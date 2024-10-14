@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-       
+       // simple program to calculate the grad of students and Enter the name of student 
         int percetage;
 
         Console.Write("Enter Your student name: ");
